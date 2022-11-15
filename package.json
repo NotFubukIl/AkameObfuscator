@@ -1,0 +1,17 @@
+{
+  "name": "caca",
+  "version": "1.0.0",
+  "description": "javascript 'Obuscator????'",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base85": "^3.1.0",
+    "javascript-obfuscator": "^4.0.0",
+    "readline-sync": "^1.4.10",
+    "uglify-js": "^3.17.4"
+  }
+}
